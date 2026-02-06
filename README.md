@@ -29,8 +29,8 @@ A C++ implementation of an Online Library Management System using Object-Oriente
 - Git (for version control)
 
 ## Building and Running
+USE these commands to uild and compile
 
-### Method 1: Using g++ directly
 ```bash
 # Compile the main program
 g++ -std=c++11 src/*.cpp -I src -o library_system
@@ -41,3 +41,5 @@ g++ -std=c++11 src/*.cpp -I src -o library_system
 # Compile and run tests
 g++ -std=c++11 src/*.cpp tests/test_main.cpp -I src -o test_system
 ./test_system
+
+## BSE-05-0123/2025
