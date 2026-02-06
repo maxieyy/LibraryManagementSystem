@@ -1,4 +1,4 @@
-# 📚 Online Library Management System
+#  Online Library Management System
 
 ## Overview
 A C++ implementation of an Online Library Management System using Object-Oriented Programming principles. it will allow managing books, users, and borrowing/returning operations.
